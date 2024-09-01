@@ -4,7 +4,7 @@ This is a Django-based Social API project that allows users to send, accept, or 
 
 ## Postman Collection
 
-Download this file. and import in Postman desktop
+Download this file [Postman Collection](). and import in Postman desktop
 
 
 ## Installation
